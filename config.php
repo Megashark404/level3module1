@@ -2,9 +2,9 @@
 
 return [
 	'database' => [
-		'database' => 'u1311926_default',
-		'username' => 'u1311926_default',
-		'password' => '_Y1Ymwz7',
+		'database' => 'default',
+		'username' => '',
+		'password' => '',
 		'connection' => 'mysql:host=localhost',
 		'charset' => 'utf8'
 	]
